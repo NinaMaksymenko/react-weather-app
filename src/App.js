@@ -12,7 +12,7 @@ function App() {
         <Weather />
       </div>
       <div className="footer">
-      <a href="https://github.com/NinaMaksymenko/First-project"
+      <a href="https://github.com/NinaMaksymenko/react-weather-app"
         >Open-source code</a
       >
       by Maksymenko Nina
